@@ -59,12 +59,13 @@ public class Main {
         //- Ejercicio 3: Evaluar si un Número es Par y Mayor que Cero - Usa una estructura if para
         //determinar si un número es par y positivo.
 
-        int numero = 3;
+        int numero = 8;
 
         if (numero> 0 && numero % 2 == 0 ){
             System.out.println("este numero es par "+ numero);
         }else{
             System.out.println("este numero es impar");
         }
+
     }
 }
