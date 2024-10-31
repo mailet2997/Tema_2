@@ -58,3 +58,6 @@ Este repositorio contiene el material y los ejemplos del curso de Fundamentos de
 
 ---
 
+## Authors
+
+- [@Mailet2997](https://github.com/mailet2997)
